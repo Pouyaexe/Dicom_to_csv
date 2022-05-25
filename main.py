@@ -59,5 +59,4 @@ while True:
         ]
         
             
-
 window.close()
